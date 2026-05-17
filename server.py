@@ -34,6 +34,7 @@ HOW TO ADD TO CLAUDE DESKTOP:
     }
 """
 
+
 import sys
 import os
 
