@@ -2,7 +2,6 @@ env/
 __pycache__/
 *.pyc
 .env
-.env.template
 .DS_Store
 *.log
 data/__pycache__/
